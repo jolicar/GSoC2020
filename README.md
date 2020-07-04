@@ -6,5 +6,6 @@ This is the New rules for the Topology Framework in gvSIG Desktop GSoC2020 proje
 The next list has the topology rules to develop:
 * [TopologyRuleMustBeProperlyInsidePolygonsPoint](https://github.com/jolicar/TopologyRuleMustBeProperlyInsidePolygonsPoint)
 * [TopologyRuleContainsPointPolygon](https://github.com/jolicar/TopologyRuleContainsPointPolygon)
+* [TopologyRuleContainsOnePointPolygon](https://github.com/jolicar/TopologyRuleContainsOnePointPolygon)
 
 **NOTE:** You can consult the weekly report on this [link of timeline.](https://github.com/jolicar/GSoC2020/wiki/GSoC2020-New-rules-for-the-Topology-Framework-in-gvSIG-Desktop#timeline)
